@@ -1,4 +1,4 @@
-console.log("Hello world!");
+alert("Hello world!");
 
 document.querySelector("#btn").onclick = function() {
     let output = document.querySelector("#output");
