@@ -2,8 +2,9 @@ p {
     color: red;
 }
 
-div {
-    width: 100px;
-    height: 100px;
-    color: aqua;
+button {
+    width: 140px;
+    height: 40px;
+    background-color: aqua;
+    border-radius: 20px;
 }
